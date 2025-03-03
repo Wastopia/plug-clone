@@ -1,0 +1,470 @@
+{
+  "network": {
+    "network": "Network",
+    "name": "Network Name",
+    "namePlaceholder": "My Network",
+    "host": "Host URL",
+    "hostPlaceholder": "http://localhost:8000/",
+    "ledgerCanisterId": "Ledger canister Id",
+    "ledgerCanisterIdPlaceholder": "My Ledger Canister Id",
+    "addNetwork": "Add Network",
+    "addNetworkDescription": "Add a custom network to use Plug on test networks."
+  },
+  "connectionStatus": {
+    "plugged": "You're plugged into",
+    "notPlugged": "You're not plugged in",
+    "incomingConnection": "Incoming connection!",
+    "alpha": "Alpha - {{version}}"
+  },
+  "copy": {
+    "copyText": "Copy to clipboard",
+    "copyTextAddress": "Copy address to clipboard",
+    "copiedText": "Copied!"
+  },
+  "profile": {
+    "myAccounts": "My Accounts",
+    "createAccount": "Create Account",
+    "importWallet": "Import Wallet",
+    "settings": "Settings",
+    "subaccountNotConnected": "This account is not connected",
+    "wantToConnect": "Do you want to connect your accounts?",
+    "help": "Help",
+    "lock": "Lock",
+    "refreshWallet": "Refresh Wallet",
+    "accountNameTooLong": "Account name must be less than 24 characters long"
+  },
+  "tabs": {
+    "tokens": "Tokens",
+    "nfts": "NFTs",
+    "activity": "Activity",
+    "apps": "Apps"
+  },
+  "activity": {
+    "title": {
+      "send": "Send",
+      "receive": "Receive",
+      "swap": "Swap",
+      "for": "for",
+      "pluggedInto": "Plugged into",
+      "unpluggedFrom": "Unplugged from",
+      "mint": "Mint",
+      "burn": "Burn"
+    },
+    "subtitle": {
+      "to": "To",
+      "from": "From"
+    },
+    "status": {
+      "pending": "Pending",
+      "failed": "Failed"
+    },
+    "noActivityTitle": "You have no activity yet",
+    "noActivityText": "When you deposit, send, or swap,\nyour activity will be displayed here."
+  },
+  "common": {
+    "okIUnderstand": "Ok, I understand",
+    "arguments": "Arguments",
+    "to": "to",
+    "delete": "delete",
+    "close": "Close",
+    "back": "Back",
+    "save": "Save",
+    "edit": "Edit",
+    "done": "Done",
+    "password": "Enter Password",
+    "decline": "Decline",
+    "allow": "Allow",
+    "continue": "Continue",
+    "max": "Max",
+    "taxFee": "Tx fee:",
+    "rate": "Rate:",
+    "total": "Total:",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "disconnect": "Disconnect",
+    "add": "Add",
+    "or": "or",
+    "comingSoon": "Coming soon",
+    "fee": "Fee",
+    "memo": "Memo",
+    "null": "null",
+    "methodName": "Method name",
+    "parameters": "Parameters",
+    "accountId": "Account ID",
+    "principalId": "Principal ID",
+    "canisterId": "Canister ID",
+    "icns": "ICNS",
+    "sign": "Sign",
+    "name": "Name",
+    "create": "Create",
+    "account": "Account",
+    "learnMore": "Learn more",
+    "send": "Send",
+    "unknownToken": "unknown token",
+    "connect": "Connect"
+  },
+  "apps": {
+    "title": "Connected Apps",
+    "disconnectTitle": "Disconnect from Site",
+    "disconnectText": "Are you sure you want to disconnect from",
+    "emptyTitle": "You have no apps connected",
+    "emptyText": "When you connect to an app they will be displayed here, with the ability to remove them.",
+    "emptyLink": "our docs.",
+    "comingSoonTitle": "Coming soon!",
+    "comingSoonSubtitle": "Plug will allow you to connect\nand log into IC Apps.",
+    "whitelistTitle": "Approved Canisters"
+  },
+  "login": {
+    "title": "Welcome Back!",
+    "subtitle": "Plug into the Internet Computer",
+    "unlock": "Unlock",
+    "restore": "Restore account?",
+    "import": "Import using your Secret Recovery Phrase"
+  },
+  "help": {
+    "title": "Help",
+    "documentation": "Documentation",
+    "blog": "Blog",
+    "followUs": "Follow us on Twitter",
+    "review": "Review Plug",
+    "discord": "Join our Discord"
+  },
+  "settings": {
+    "title": "Settings",
+    "walletDetails": "Account Details",
+    "walletDetailsDescription": "Change the name & pic on your account.",
+    "contacts": "Contacts",
+    "contactsDescription": "Add, edit, remove and manage contacts.",
+    "seedPhrase": "Secret Recovery Phrase",
+    "seedPhraseDescription": "View and backup your secret phrase.",
+    "resetAccount": "Reset Account",
+    "resetAccountDescription": "Reset all Transactions and Linked Apps.",
+    "createAccountTitle": "Create Account",
+    "helpDescription": "Resources to better understand Plug.",
+    "exportIdentity": "Export DFX Identity",
+    "exportIdentityDescription": "Get a pem file to use in DFX.",
+    "network": "Network",
+    "networkDescription": "Add, edit, and remove custom networks."
+  },
+  "walletDetails": {
+    "title": "Account Details",
+    "name": "Name",
+    "editWalletPic": "Edit Wallet Pic",
+    "accountId": "ICP Account ID",
+    "publicAccount": "Public Account",
+    "viewMore": "View additional wallet details",
+    "principalIdInfoTitle": "What is a Principal ID?",
+    "principalIdDescription": "It is your main unique identifier on the Internet Computer, and your wallet's main address in Plug.",
+    "principalIdLearnMore": "Learn more about Principal ID's",
+    "accountIdInfoTitle": "What is an Account ID?",
+    "accountIdDescription": "An Account ID is an address derived from your Principal ID, that represents your ICP balance on the ledger.",
+    "accountIdLearnMore": "Learn more about Account ID's",
+    "icnsLearnMore": "Learn more about ICNS",
+    "icnsInfoTitle": "What is ICNS?",
+    "icnsDescription": "An ICNS name maps your wallet ID to a human readable name (ex. 'plug.icp'). Once set, you can send and receive tokens & NFT's to your ICNS name in addition to your wallet ID.",
+    "getICNS": "Buy an ICNS"
+  },
+  "seedPhrase": {
+    "title": "Secret Recovery Phrase",
+    "reveal": "Reveal Secret Recovery Phrase",
+    "checkbox": "I will be safe with my Secret Recovery Phrase."
+  },
+  "appConnection": {
+    "connect": "wants to connect to your wallet"
+  },
+  "deposit": {
+    "title": "Deposit",
+    "copyAddress": "Copy Address",
+    "asset": "Asset",
+    "depositingFrom": "Depositing from",
+    "learnMore": "Learn more about buying",
+    "selectAsset": "Select the asset you're depositing",
+    "selectDeposit": "Select where you're depositing from",
+    "runCommandTitle": "Run the following command",
+    "runCommandSubtitle": "To deposit Cycles from a Cycles Wallet you need to run a DFX CLI command.",
+    "runCommandButton": "Ok, I ran the command.",
+    "depositIcpTitle1": "From another Plug Account",
+    "depositIcpSubtitle1": "Use when receiving from Plug accounts or other apps that support sending directly to Principal ID's.",
+    "depositIcpTitle2": "From Exchange, DFX, or Account ID",
+    "depositIcpSubtitle2": "Use when receiving from exchanges or other apps that only support sending to Account ID's.",
+    "scanQrCode": "Scan QR Code",
+    "sameAddressFromTo": "Oops! You're trying to send to your own ID"
+  },
+  "swap": {
+    "title": "Swap",
+    "swapFrom": "Swap from",
+    "swapTo": "Swap  to",
+    "available": "available to swap",
+    "review": "Review swap",
+    "confirm": "Confirm swap",
+    "comingSoonTitle": "More swaps coming soon!",
+    "comingSoonSubtitle": "Currently you can only swap from ICP to Cycles within the Plug Wallet.",
+    "swappingVia": "Swapping via:",
+    "cycleMinter": "Cycle Minter"
+  },
+  "send": {
+    "title": "Send",
+    "asset": "Asset",
+    "to": "To:",
+    "inputId": "Enter Principal ID or Account ID",
+    "available": "available to send \n(considering fees)",
+    "selectAsset": "Select the asset you're sending",
+    "moreComingSoon": "MORE COMING SOON",
+    "payWith": "Pay with:",
+    "review": "Review Send",
+    "canisterDetected": "We detected the recipient ID you entered is a Canister, please choose where you want the cycles to go.",
+    "keepDank": "Keep Cycles in Dank",
+    "withdrawCanister": "Withdraw Cycles to Canister",
+    "help": "Which option should I choose?",
+    "accountWarning": "You can’t send cycles to an Account ID. \n Please enter a Principal ID or Canister ID.",
+    "warning": "Warning",
+    "canisterDetectedIcp1": "We detected the recipient ID you entered is a Canister. Please be aware that although you can send ICP to a canister, ",
+    "canisterDetectedIcp2": "currently there is no way to send ICP out of a canister.",
+    "canisterDetectedUnderstand": "I understand. Send ICP to canister anyways.",
+    "icnsModalTitle": ".ICP Names - ICNS",
+    "icnsModalText": "Plug supports ICNS when it comes to .icp name resolution. Make sure to double check you're sending to the correct name.",
+    "icnsModalLearnMore": "Learn more about ICNS",
+    "icnsModalButton2": "Learn more about the two ID's",
+    "transactionInProgress": "Transaction in progress...",
+    "transactionSuccess": "Transaction successful",
+    "returnHome": "Return home",
+    "viewTxOnICRocks": "View tx on ic.rocks",
+    "doNotClose": "Don't click away from this screen for a few seconds while your transaction is being sent to the network. If you do your tx won't be processed.",
+    "plugChill": "Chill for a sec...",
+    "plugLetsGo": "Let's go!! 😎",
+    "xtcCanisterDetected": "We detected the recipient ID you entered is a Canister, please confirm what you want to send.",
+    "sendXtc": "Send Cycles (keep as XTC)",
+    "sendCycles": "Send Raw Cycles (convert XTC)",
+    "choose": "Select one",
+    "xtcModalText": "If you want to send cycles to a canister to top/refill it and pay for its computation, select Raw Cycles. Otherwise, pick 'keep as XTC' if you want the canister to own a balance of tokenized cycles (XTC).",
+    "xtcModalTitle": "XTC vs Cycles",
+    "alert": {
+      "principalId": "a Principal ID",
+      "accountId": "an Account ID"
+    },
+    "invalidICNS": "Invalid or unregistered ICNS name",
+    "invalidAddress": "Invalid address"
+  },
+  "transfer": {
+    "details": "Details",
+    "data": "Data",
+    "withdraw": "wants to withdraw from your wallet",
+    "amount": "Amount of {token}",
+    "decline": "Decline",
+    "transactions": "transactions",
+    "notEnoughTitle": "Not enough {token}",
+    "notEnoughText": "You don't have enough {token} in your wallet to process this transaction. Please get more {token} to continue.",
+    "of": "of",
+    "requests": "requests",
+    "next": "Next →",
+    "previous": "← Previous"
+  },
+  "welcome": {
+    "goBack": "Go Back",
+    "createWallet": "Create Wallet",
+    "createText": "Create a new wallet and Secret Recovery Phrase.",
+    "importWallet": "Import Wallet",
+    "importText": "Import using 12 word Secret Recovery Phrase from an existing Plug wallet.",
+    "welcomeTitle": "Welcome to Plug.",
+    "welcomeSubtitle": "Choose if you want to import or create a wallet (Principal ID).",
+    "welcomeMessage": "What’s good!",
+    "passwordTitle": "Create Password for Plug",
+    "passwordSubtitle": "Please create a password to access your Plug extension.",
+    "passwordMessage": "Make that pw secure frfr",
+    "passwordLabel": "New Password (min. 8 characters)",
+    "passwordConfirmLabel": "Confirm Password",
+    "passwordButton": "I made a secure password",
+    "passwordWarning": "Don't forget your password, otherwise you'll need to reimport your wallet using your Secret Recovery Phrase.",
+    "importSubtitle": "Please enter your 12 word Secret Recovery Phrase.",
+    "importMessage": "Paste that sh*t",
+    "importLabel": "Secret Recovery Phrase",
+    "importButton": "Okay, I entered it.",
+    "memeTitle": "You're good to go!",
+    "memeSubtitle": "Peep your extensions and Plug should be there.",
+    "memeMessage": "Let’s Gooo!!!",
+    "seedTitle": "Secret Recovery Phrase Backup",
+    "seedSubtitle": "Below is the Secret Recovery Phrase for your new wallet, write it down.",
+    "seedMessage": "Keep this sh*t safe, forreal.",
+    "seedCheckbox": "I wrote down the Secret Recovery Phrase and put it somewhere safe.",
+    "passwordShortError": "The minimum is 8 characters, smh!",
+    "passwordMatchError": "The passwords gotta match, smh!",
+    "pasteMnemonic": "You can paste the totality of your secret phrase into any input"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "addContact": "Add Contact",
+    "addContacts": "Add Contacts",
+    "description": "Name your addresses for a better, safer, more fun experience.",
+    "dab": "Powered by Dab",
+    "name": "Name",
+    "id": "Principal, Account ID or ICNS name",
+    "deleteTitle": "Delete Contact",
+    "deleteText": "Are you sure you want to delete",
+    "deleteButton": "Delete",
+    "newAddress": "New Address Detected!",
+    "addToContacts": "Add to Contacts",
+    "errorId": "Incorrect ID format.",
+    "errorExists": "This contact already exists under \"{name}\"."
+  },
+  "addToken": {
+    "title": "Add Token",
+    "search": "Search",
+    "custom": "Custom",
+    "searchText": "Add tokens to your wallet, verified tokens will appear in the search.",
+    "searchLink": "Learn more about tokens",
+    "tokenCanisterId": "Token Canister ID",
+    "confirmText": "Token Safety Alert: For your security, make sure to do proper research before interacting with any token.",
+    "emptyResults": "No search results found",
+    "searchTokens": "Search Tokens",
+    "addCustomToken": "Add Custom Token",
+    "comingSoon": "COMING SOON",
+    "dabTitle": "DAB Token List",
+    "dabText": "Helping improve discoverability, reputation, and trust in IC tokens.",
+    "invalidInterfaceTokenError": "Wrong standard. No Token Interface Detected.",
+    "invalidCanisterTokenError": "Invalid Canister ID.",
+    "nftTokenError": "Custom non-fungible tokens are not supported yet.",
+    "standard": "Token Standard",
+    "searchResults": "Search results",
+    "selectStandard": "Select the token's interface standard",
+    "importTitle": "wants to add a token to your wallet"
+  },
+  "addNFT": {
+    "title": "Add NFT",
+    "search": "Search",
+    "custom": "Custom",
+    "searchText": "Add NFT's to your wallet, verified NFT's will appear in the search.",
+    "searchLink": "Learn more about NFT's",
+    "tokenCanisterId": "NFT Canister ID",
+    "confirmText": "NFT Safety Alert: For your security, make sure to do proper research before interacting with any NFT.",
+    "emptyResults": "No search results found",
+    "searchTokens": "Search NFT's",
+    "addCustomToken": "Add Custom NFT",
+    "comingSoon": "COMING SOON",
+    "dabTitle": "DAB Token List",
+    "dabText": "Helping improve discoverability, reputation, and trust in IC tokens.",
+    "invalidInterfaceTokenError": "Wrong standard. No Token Interface Detected.",
+    "invalidCanisterTokenError": "Invalid Canister ID.",
+    "standard": "NFT Standard",
+    "searchResults": "Search results",
+    "selectStandard": "Select the NFT interface standard",
+    "importTitle": "wants to add a NFT to your wallet"
+  },
+  "removeToken": {
+    "action": "Delete Token",
+    "mainText": "Are you sure you want to delete ",
+    "mainTextContinue": " from your token list?",
+    "disclaimer": "You can always add the token back by adding it as a custom token again."
+  },
+  "error": {
+    "errorTitle": "Something went wrong",
+    "errorBody": "We’re sorry, something weird happened. \nReturn home and retry the action.",
+    "returnHome": "Return Home",
+    "notificationError": "We’re sorry, something weird happened. Please close the pop up and try again"
+  },
+  "sendError": {
+    "errorCode": "Error code #",
+    "600": {
+      "title": "Something went wrong",
+      "description": "We’re sorry, something weird happened. Return home and retry the action.",
+      "button": "Return Home"
+    },
+    "100": {
+      "title": "Insufficient Balance",
+      "description": "This transaction couldn’t be completed because there are insufficient funds available.",
+      "button": "Deposit Tokens"
+    },
+    "300": {
+      "title": "Register token don’t respect the interface",
+      "description": "We’re sorry, something weird happened. Return home and retry the action.",
+      "button": "Return Home"
+    },
+    "301": {
+      "title": "Canister out of cycles",
+      "description": "We’re sorry, something weird happened. Return home and retry the action.",
+      "button": "Return Home"
+    }
+  },
+  "whitelist": {
+    "title": "wants permission to use these canisters:"
+  },
+  "exportIdentity": {
+    "title": "Export DFX Identity",
+    "checkbox": "I will be safe with my DFX identity.",
+    "download": "Download .pem file",
+    "runCommand": "Run the following command",
+    "runCommandDescription": "In order to use your account in DFX, run the following command, using the .pem file download as route.",
+    "dfxImport": "dfx identity import <identity name> <route to pem>",
+    "dfxUse": "dfx identity use <identity name>",
+    "selectAccount": "Select Account"
+  },
+  "importPem": {
+    "importPEMfile": "Import PEM file",
+    "editWalletPic": "Edit Wallet Pic",
+    "walletDetails": "Wallet Details",
+    "dragAndDrop": "Drag and Drop",
+    "or": "or",
+    "browse": "browse",
+    "fileNotSupported": "File not supported. Try a different file.",
+    "dropIt": "Drop it!",
+    "added-account": "Account already added",
+    "invalid-key": "Invalid PEM file"
+  },
+  "nfts": {
+    "allNfts": "All NFTs",
+    "expandNFT": "View",
+    "copyLink": "Copy Link",
+    "collection": "Collection",
+    "description": "Description",
+    "attributes": "Attributes",
+    "send": "Send NFT",
+    "manage": "Manage",
+    "review": "Review Send",
+    "sendTo": "To",
+    "nft": "NFT",
+    "inputPrincipalId": "Enter Principal ID",
+    "transferError": "Something went wrong while attempting to send the NFT",
+    "emptyTitle": "You don't own any NFTs yet",
+    "emptyText": "When you do, they'll show here, where you will see their traits and send them."
+  },
+  "burn": {
+    "title": "wants to transfer cycles to a canister",
+    "amount": "Amount of {token}",
+    "canister": "Canister ID"
+  },
+  "assetsWarning": {
+    "details": {
+      "title": "Details"
+    },
+    "data": {
+      "title": "Data"
+    }
+  },
+  "sign": {
+    "warning": {
+      "assetCanister": "an asset canister",
+      "action": "wants to interact with {{name}}",
+      "actions": "wants to perform the following actions:",
+      "unknownArguments": "Unknown Arguments",
+      "title": "Important Warning",
+      "description": "This app is interacting with your assets in an unsafe way, without providing a way for Plug (or you) to see what it's doing. Make sure you fully trust this app before confirming, otherwise you could lose your assets.",
+      "modalTitle": "Why are the Arguments Unknown?",
+      "modalText": "Because this app is not showing you what it's doing (unsafe), which means you (and Plug) can't read the arguments",
+      "modalLearnMore": "Learn more about Trusting Apps",
+      "unknownId": "Unknown ID",
+      "unknownCollection": "Unknown Collection",
+      "unknownAmount": "Unknown Amount"
+    }
+  },
+  "dab": {
+    "poweredByDab": "POWERED BY DAB"
+  },
+  "tokens": {
+    "failedToFetchBalance": "Failed to fetch balance",
+    "ledgerNotSpecified": "Ledger not specified for network"
+  },
+  "clock": {
+    "title": "Your device clock is set incorrectly",
+    "description": "Your device's clock is incorrect and this affects how Plug can communicate with the IC due to its security measures. Set your clock's time to automatic and restart your browser.",
+    "descriptionLink": "Learn more here"
+  }
+}
