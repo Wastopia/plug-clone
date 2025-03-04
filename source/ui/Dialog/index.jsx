@@ -99,3 +99,4 @@ Dialog.propTypes = {
   menuItemTestId: PropTypes.string,
   closeIconButtonTestId: PropTypes.string,
 };
+// .

@@ -13,3 +13,4 @@ Default.args = {
   image: FleekImg,
   type: null,
 };
+// .

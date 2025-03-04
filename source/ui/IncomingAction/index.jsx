@@ -22,3 +22,4 @@ IncomingAction.propTypes = {
   url: PropTypes.string.isRequired,
   action: PropTypes.string.isRequired,
 };
+// .
