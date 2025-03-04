@@ -97,3 +97,4 @@ describe('Settings: Secret Recovery Phrase', () => {
     await checkHelpMenuItemLinkMatch(browser, page, discord, discordLink);
   });
 });
+// .

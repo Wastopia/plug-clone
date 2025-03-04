@@ -110,3 +110,4 @@ describe('Settings: Secret Recovery Phrase', () => {
     await isContinueButtonDisabled(page);
   });
 });
+// .
