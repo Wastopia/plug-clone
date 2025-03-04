@@ -14,4 +14,4 @@ Default.args = {
   description: 'Change the name of your wallet.',
   image: Image,
   onClick: (() => null),
-};
+};//ds

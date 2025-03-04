@@ -145,4 +145,4 @@ NumberFormatCustom.propTypes = {
   prefix: PropTypes.string.isRequired,
   suffix: PropTypes.string.isRequired,
   availableAmount: PropTypes.number.isRequired,
-};
+};//ds

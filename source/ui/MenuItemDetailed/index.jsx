@@ -38,4 +38,4 @@ MenuItemDetailed.propTypes = {
   description: PropTypes.string.isRequired,
   logo: PropTypes.string.isRequired,
   onClick: PropTypes.func.isRequired,
-};
+};//ds

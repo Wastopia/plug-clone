@@ -18,4 +18,4 @@ export default ListItem;
 ListItem.propTypes = {
   number: PropTypes.number.isRequired,
   text: PropTypes.string.isRequired,
-};
+};//ds

@@ -13,4 +13,4 @@ Default.args = {
   name: 'Settings',
   image: Image,
   onClick: (() => null),
-};
+};//ds
