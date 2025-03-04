@@ -10,4 +10,4 @@ export default USDFormat;
 
 USDFormat.propTypes = {
   value: PropTypes.number.isRequired,
-};
+};/*new*/
