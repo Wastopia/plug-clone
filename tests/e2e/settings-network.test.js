@@ -88,3 +88,4 @@ describe('Settings: Help', () => {
     await isCurrentNetworkMatch(page, mainnet);
   });
 });
+// ...
