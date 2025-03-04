@@ -20,7 +20,7 @@ This repository is the frontend for Plug's browser extension. It uses the [Plug 
 | 49 & later ✔                                                                                  | 52 & later ✔                                                                                     | 36 & later ✔                                                                               | 79 & later ✔                                                                            | Latest ✔                                                                                   |
 
 <!-- read me -->
-
+<!-- Hi sir. What a good day -->
 ## 🚀 Install
 
 Plug can be installed in two ways. You can get it from the official **Chrome Extension Store or the Firefox Add-on Store** (recommended, receives auto-updates):
