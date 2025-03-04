@@ -64,3 +64,4 @@ CanisterInfoItem.propTypes = {
   className: PropTypes.string,
   defaultBoxClassName: PropTypes.string,
 };
+// hello
