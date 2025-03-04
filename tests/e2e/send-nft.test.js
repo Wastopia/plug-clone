@@ -129,4 +129,4 @@ describe('NFTs Send View', () => {
     await page.waitForSelector('nft-collection-dropdown-Cronic Wearables', { hidden: true });
   });
 });
-// ..
+// ...

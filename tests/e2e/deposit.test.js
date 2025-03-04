@@ -62,4 +62,4 @@ describe('Deposit View', () => {
     await closeQrCodeModalButtonClick(page);
   });
 });
-// ..
+// ...
