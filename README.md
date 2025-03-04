@@ -21,6 +21,7 @@ This repository is the frontend for Plug's browser extension. It uses the [Plug 
 
 <!-- read me -->
 <!-- Hi sir. What a good day -->
+<!-- Hello world -->
 ## 🚀 Install
 
 Plug can be installed in two ways. You can get it from the official **Chrome Extension Store or the Firefox Add-on Store** (recommended, receives auto-updates):
