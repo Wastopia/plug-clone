@@ -22,7 +22,7 @@ const InfoRow = ({
   );
 };
 
-export default InfoRow;
+export default InfoRow;//ccore
 
 InfoRow.defaultProps = {
   total: false,
