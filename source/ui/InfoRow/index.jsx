@@ -38,4 +38,4 @@ InfoRow.propTypes = {
   border: PropTypes.bool,
   spaced: PropTypes.bool,
   image: PropTypes.string,
-};//d
+};//new
