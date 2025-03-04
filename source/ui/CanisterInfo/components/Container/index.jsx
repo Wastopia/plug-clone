@@ -21,3 +21,4 @@ CanisterInfoContainer.propTypes = {
   children: PropTypes.node.isRequired,
   className: PropTypes.string,
 };
+// HI
