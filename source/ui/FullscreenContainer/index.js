@@ -24,4 +24,4 @@ FullscreenContainer.propTypes = {
   children: PropTypes.node.isRequired,
   maxWidth: PropTypes.string.isRequired,
 };
-// .
+// ..

@@ -38,4 +38,4 @@ Header.propTypes = {
   left: PropTypes.node,
   right: PropTypes.node,
 };
-// .
+// ..

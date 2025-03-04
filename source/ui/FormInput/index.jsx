@@ -29,4 +29,4 @@ FormInput.propTypes = {
   onChange: PropTypes.func.isRequired,
   error: PropTypes.bool.isRequired,
 };
-// .
+// ..

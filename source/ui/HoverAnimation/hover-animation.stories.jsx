@@ -9,4 +9,4 @@ const Template = (args) => <HoverAnimation {...args}>Hover me</HoverAnimation>;
 
 export const Default = Template.bind({});
 Default.args = {};
-// .
+// ..

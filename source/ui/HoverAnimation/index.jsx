@@ -24,4 +24,4 @@ HoverAnimation.defaultProps = {
   disabled: false,
   style: {},
 };
-// .
+// ..

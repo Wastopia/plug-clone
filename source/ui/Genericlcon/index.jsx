@@ -42,4 +42,4 @@ GenericIcon.propTypes = {
   type: PropTypes.string,
   style: PropTypes.object,
 };
-// .
+// ..
