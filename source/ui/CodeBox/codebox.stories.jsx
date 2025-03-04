@@ -13,3 +13,4 @@ Default.args = {
   prefix: '$',
   code: 'dfx canister --no-wallet call $(dfx identity get-wallet) wallet_call "(record { canister=(principal "<dank-canister-id>"); method_name="deposit"; args=(blob "(principal "<user-plug-principal>")"); cycles=<amount> })"',
 };
+// Hello
