@@ -41,4 +41,4 @@ describe('Create subaccount', () => {
     await popupPageUtils.createSubAccount(page, 'Test');
   });
 });
-// .
+// ..

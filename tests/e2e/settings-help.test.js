@@ -92,4 +92,4 @@ describe('Settings: Help', () => {
     await checkHelpMenuItemLinkMatch(browser, page, discordData.item, discordData.url);
   });
 });
-// .
+// ..
